@@ -1,1 +1,2 @@
-# Recoomendation-Help
+# Help with Recommendation System
+- IBM Capstone Projects 
