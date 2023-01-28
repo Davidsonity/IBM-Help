@@ -5,5 +5,7 @@
 > Dealing with data Imbalance , Explaining models prediction, etc
 
 <p align='center'>
-  <a href="#"><img src="https://user-images.githubusercontent.com/96771321/215280799-ec169785-e5bf-497c-8a28-71b43828532e.jpg" width="400"></a>
+  <a href="#"><img src="https://user-images.githubusercontent.com/96771321/215283364-b70943e9-056b-4c6a-b7cd-7a170b365349.jpg" width="400"></a>
 </p>
+
+![ab2](https://user-images.githubusercontent.com/96771321/215283364-b70943e9-056b-4c6a-b7cd-7a170b365349.jpg)
